@@ -1,0 +1,39 @@
+{
+    "name": "mobilecosystem/template-1",
+    "type": "project",
+    "version": "0.1.5",
+    "description": "MobileCosystem - Skeleton Template 1",
+    "homepage": "https://www.walis.ph",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=2.1.1",
+        "backbone-amd": ">=1.1.0",
+        "underscore-amd": ">=1.5.2",
+        "jquery.lazyload": ">=1.9.3",
+        "bootstrap-select": ">=1.5.2",
+        "animate.css": ">=3.1.1",
+        "bootstrap-paginator": ">=1.0.2",
+        "owl.carousel": null,
+        "jquery-touchswipe": null,
+        "jquery-validation": null,
+        "perfect-scrollbar": null
+    },
+    "devDependencies": {
+        "carouFredSel": "https://github.com/gilbitron/carouFredSel.git",
+        "jcarousel": null,
+        "fancybox": null,
+        "jquery.scrollTo": null,
+        "skrollr": ">=0.6.26",
+        "photoset-grid": null,
+        "jquery-colorbox": null
+    },
+    "ignore": [
+        "**/.*",
+        "_config.yml",
+        "CNAME",
+        "composer.json",
+        "CONTRIBUTING.md",
+        "docs",
+        "js/tests"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "mobilecoystem_template_1",
+  "version": "0.1.0",
+  "homepage": "https://www.walis.ph",
+  "description": "MobileCosystem - Skeleton Template #1",
+  "license": "MIT",
+  "keywords": [
+    "walis",
+    "less",
+    "bootstrap",
+    "jquery",
+    "coffeescript",
+    "gulp",
+    "nodejs"
+  ],
+  "author": "MobileCosystem, Inc.",
+  "contributors": [
+    {
+      "name": "Jay Are Galinada",
+      "email": "jayaregalinada@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-header": "*",
+    "gulp-less": "*",
+    "gulp-livereload": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "bower": "*"
+  }
+}
