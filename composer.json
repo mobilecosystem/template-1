@@ -52,5 +52,10 @@
     "config": {
         "preferred-install": "dist"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
     "minimum-stability": "stable"
 }
