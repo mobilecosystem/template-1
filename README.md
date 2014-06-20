@@ -1,4 +1,5 @@
 # MobileCosystem Skeleton Template `#1`
+[![Latest Stable Version](https://poser.pugx.org/mobilecosystem/template-1/v/stable.svg)](https://packagist.org/packages/mobilecosystem/template-1) [![Total Downloads](https://poser.pugx.org/mobilecosystem/template-1/downloads.svg)](https://packagist.org/packages/mobilecosystem/template-1) [![Latest Unstable Version](https://poser.pugx.org/mobilecosystem/template-1/v/unstable.svg)](https://packagist.org/packages/mobilecosystem/template-1) [![License](https://poser.pugx.org/mobilecosystem/template-1/license.svg)](https://packagist.org/packages/mobilecosystem/template-1)
 ### Installation
 Create a dotEnvironment `.env.php` for production or `.env.local.php` for local environment with:
 
