@@ -1,7 +1,7 @@
 {
     "name": "mobilecosystem/template-1",
     "description": "MobileCosystem Skeleton Template #1",
-    "version": "0.1.2",
+    "version": "1.0.0",
     "type": "project",
     "keywords": ["laravel", "mobilecosystem", "php", "projects", "walisph"],
     "license": "MIT",
@@ -9,14 +9,6 @@
         {
             "name": "Jay Are Galinada",
             "email": "jayaregalinada@gmail.com"
-        },
-        {
-            "name": "Mark Donguines",
-            "role": "Graphic Designer"
-        },
-        {
-            "name": "Jun Sabijon",
-            "role": "Team Leader"
         }
     ],
     "support": {
